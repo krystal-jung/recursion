@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串逆序", "字符串逆序\字符串逆序.vcxproj", "{104EDE1F-94A0-424D-8AFD-B90EE176B7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104EDE1F-94A0-424D-8AFD-B90EE176B7FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{104EDE1F-94A0-424D-8AFD-B90EE176B7FC}.Debug|Win32.Build.0 = Debug|Win32
+		{104EDE1F-94A0-424D-8AFD-B90EE176B7FC}.Release|Win32.ActiveCfg = Release|Win32
+		{104EDE1F-94A0-424D-8AFD-B90EE176B7FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
